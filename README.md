@@ -1,4 +1,4 @@
-JavaFX Tic-Tac-Toe Game
+Tic-Tac-Toe Game
 
 This is a desktop Tic-Tac-Toe game created with Java and JavaFX.
 The purpose of the project is to demonstrate the use of object-oriented programming concepts in a graphical Java application. The game allows two players to enter their names, choose a game mode, play multiple rounds, and see the result through visual effects.
