@@ -26,7 +26,7 @@ The project includes:
 - JavaFX event handling
 - JavaFX animations
 
-Requirements
+Requirements:
 - JDK 25
 - JavaFX SDK 25
 - IntelliJ IDEA
